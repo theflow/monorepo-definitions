@@ -924,6 +924,7 @@ const monorepoDefinitions = {
   ],
   'vue': [
     'vue',
+    'vue-server-renderer',
     'vue-template-compiler'
   ],
   'gk-test': [
